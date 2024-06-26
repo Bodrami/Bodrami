@@ -17,14 +17,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Configure Git
+        run: |
+          git config --global user.name "Bodrami"
+          git config --global user.email "dlwldms1523@gmail.com"
       - name: Commit & Push
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         run: |
-          git config --global user.name "Bodrami"
-          git config --global user.email "dlwldms1523@gmail.com"
-          echo "https://${{ secrets.TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git"
-          git remote set-url origin https://${{ secrets.TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git
           git add -A
           git commit -m "generated"
+          git remote set-url origin https://${{ secrets.TOKEN }}@github.com/${{ github.repository_owner }}/Bodrami.git
           git push origin HEAD:main
