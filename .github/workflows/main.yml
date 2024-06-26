@@ -19,8 +19,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         run: |
-          git config user.name "Bodrami"
-          git config user.email "dlwldms1523@gmail.com"
+          git config user.name Bodrami
+          git config user.email dlwldms1523@gmail.com
           git add -A .
           git commit -m "generated"
           git push https://${{ secrets.TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git
