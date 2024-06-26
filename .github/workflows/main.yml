@@ -23,4 +23,4 @@ jobs:
           git config user.email "dlwldms1523@gmail.com"
           git add -A .
           git commit -m "generated"
-          git push https://${{ secrets.TOKEN }}@github.com/${{ github.repository_owner }}/$GITHUB_REPOSITORY.git
+          git push https://${{ secrets.TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git
