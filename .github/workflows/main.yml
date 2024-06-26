@@ -23,7 +23,7 @@ jobs:
         run: |
           git config --global user.name "Bodrami"
           git config --global user.email "dlwldms1523@gmail.com"
-          git remote set-url origin https://${{ secrets.TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git
+          git remote set-url origin https://${{ secrets.TOKEN }}@github.com/${{ github.repository_owner }}.git
           git add -A
           git commit -m "generated"
           git push origin HEAD:main
