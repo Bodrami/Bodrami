@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          persist-credentials: false
+          persist-credentials: true
       - name: Set up environment variables
         run: |
           echo "USERNAME=${{ github.repository_owner }}" >> $GITHUB_ENV
