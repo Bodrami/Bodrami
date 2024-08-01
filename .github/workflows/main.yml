@@ -11,24 +11,21 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-       
-      - name: Set up environment variables
-        run: echo "USERNAME=${{ github.repository_owner }}" >> $GITHUB_ENV
-        
+        with:
+          persist-credentials: false
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          
       - name: Configure Git
         run: |
           git config --global user.name "Bodrami"
           git config --global user.email "dlwldms1523@gmail.com"
-          
       - name: Commit & Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         run: |
           git add -A
           git commit -m "generated"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository_owner }}/Bodrami.git HEAD:main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git remote set-url origin https://${{ secrets.TOKEN }}@github.com/${{ github.repository_owner }}/Bodrami.git
+          git push origin HEAD:main
