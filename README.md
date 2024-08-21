@@ -30,8 +30,12 @@
    <h4 align="right">
      image click!👆
    </h4>
-   
-![[project01](https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP)](https://github.com/user-attachments/assets/b8aacff0-51a0-48f9-88f2-01fe09daeef7)
+
+<a href="https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP">
+  
+![project01](https://github.com/user-attachments/assets/b8aacff0-51a0-48f9-88f2-01fe09daeef7)
+
+</a>
 
 ![project02](https://github.com/user-attachments/assets/c6b63300-c547-48a2-a619-5d73016868aa)
 
