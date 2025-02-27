@@ -11,12 +11,10 @@
 <div>
   <div align="left">
    <h2 align="left">
-     🙋🏻‍♀️ Allow me to Indroduce Myself
+     🙋🏻‍♀️ Indroduce Myself
    </h2>
    <br/>
-
-<a href="https://www.notion.so/invite/c71c79d2740e4a086450877403b946293dbd8665">
-<img src="https://img.shields.io/badge/Notion-444444?style=round-square&logo=Notion&logoColor=white"/>
+    
 </a>
   </div>
 
@@ -34,28 +32,26 @@
 <div align="left">
 <a href="https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP">
   
-![project01](https://github.com/user-attachments/assets/b8aacff0-51a0-48f9-88f2-01fe09daeef7)
+
 </a>
 </div>
 
 <div align="right">
 <a href="[https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP](https://github.com/Bodrami/be04-2nd-ThisDotE-InnerJoin-Us)">
   
-![project02](https://github.com/user-attachments/assets/c6b63300-c547-48a2-a619-5d73016868aa)
-</a>
+
 </div>
 
 <div align="left">
 <a href="[https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP](https://github.com/Bodrami/be04-fin-PI.Akatsuki-MOOD.HOLIC)">
 
-![project03](https://github.com/user-attachments/assets/1da1b5d1-a782-4531-b423-3f3afcbceb2d)
+
 </a>
 </div>
 
 <div align="right">
 <a href="[https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP](https://github.com/Bodrami/be04-fin-PI.Akatsuki-PIOMS?tab=readme-ov-file)">
 
-![project04](https://github.com/user-attachments/assets/926cc055-40de-403e-a115-ba20f6d3dcac)
 </a>
 </div>
 
