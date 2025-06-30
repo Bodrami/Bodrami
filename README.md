@@ -1,11 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&width=1000&animation=fadeIn&section=header&text=Bora's%20Github&fontSize=70&desc=Welcome%20to%20the%20CodingWorld!&descAlignY=75)
-</div>
-
-<div align="right">
-  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBodrami&count_bg=%23FADE40&title_bg=%23555555&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&width=1000&animation=fadeIn&section=header&text=Bodrami%20Github&fontSize=70&desc=Show%20Me%20the%20Code!&descAlignY=75)
 </div>
 
 <div>
@@ -24,10 +19,6 @@
    <h2 align="left">
      🌟 Project
    </h2>
-    
-   <h4 align="right">
-     image click!👆
-   </h4>
 
 <div align="left">
 <a href="https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP">
