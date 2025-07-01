@@ -31,7 +31,7 @@
      My Project
    </h2>
    
-<div style="display: flex; gap: 20px;">
+<div style="display:flex; gap: 5px;">
   <!-- 1st WLOP -->
   <a href="https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP" target="_blank">
     <img src="https://github.com/user-attachments/assets/b1f4239a-dd10-4ed2-8984-47c58a4dda7e" width="250px" height="200px" />
@@ -43,12 +43,12 @@
   </a>
 
   <!-- 3rd MoodHolic -->
-  <a href="[https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP](https://github.com/Bodrami/be04-fin-PI.Akatsuki-MOOD.HOLIC)">
+  <a href="https://github.com/Bodrami/be04-fin-PI.Akatsuki-MOOD.HOLIC" target="_blank">
     <img src="https://github.com/user-attachments/assets/5462c64a-f80b-4b2f-b68d-da2ad7b5f7e1" width="250px" height="200px" />
   </a>
 
   <!-- fin Pioms -->
-  <a href="[https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP](https://github.com/Bodrami/be04-fin-PI.Akatsuki-PIOMS?tab=readme-ov-file)">
+  <a href="https://github.com/Bodrami/be04-fin-PI.Akatsuki-PIOMS" target="_blank">
     <img src="https://github.com/user-attachments/assets/5f1f45fa-72dc-40fe-9e99-20eef7ced889" width="250px" height="200px"/>
   </a>
 </div>
