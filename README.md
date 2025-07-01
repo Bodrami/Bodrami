@@ -1,11 +1,10 @@
-<div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&width=1000&animation=fadeIn&section=header&text=Bodrami%20Github&fontSize=70&desc=Show%20Me%20the%20Code!&descAlignY=75)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f586bf85-08c8-4a27-8591-ef90f3ab7c24"/>
 </div>
 
 <div>
   <div align="left">
-   <h2 align="left">
+   <h3 align="left">
      🙋🏻‍♀️ Indroduce Myself
    </h2>
    <br/>
