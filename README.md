@@ -41,22 +41,23 @@
 <div style="display:flex;">
   <!-- 1st WLOP -->
   <a href="https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP" target="_blank">
-    <img src="https://github.com/user-attachments/assets/b1f4239a-dd10-4ed2-8984-47c58a4dda7e" width="230px" height="180px" />
+    <img src="https://github.com/user-attachments/assets/b1f4239a-dd10-4ed2-8984-47c58a4dda7e" width="350px" height="300px" />
   </a>
 
   <!-- 2nd InnerJoinUs -->
   <a href="https://github.com/Bodrami/be04-2nd-ThisDotE-InnerJoin-Us" target="_blank">
-    <img src="https://github.com/user-attachments/assets/29154b0f-4063-4859-aa40-5f0b70ed2400" width="230px" height="180px" />
+    <img src="https://github.com/user-attachments/assets/29154b0f-4063-4859-aa40-5f0b70ed2400" width="350px" height="300px" />
   </a>
-
+</div>
+<div style="display:flex;">
   <!-- 3rd MoodHolic -->
   <a href="https://github.com/Bodrami/be04-fin-PI.Akatsuki-MOOD.HOLIC" target="_blank">
-    <img src="https://github.com/user-attachments/assets/5462c64a-f80b-4b2f-b68d-da2ad7b5f7e1" width="230px" height="180px" />
+    <img src="https://github.com/user-attachments/assets/5462c64a-f80b-4b2f-b68d-da2ad7b5f7e1" width="350px" height="300px" />
   </a>
 
   <!-- fin Pioms -->
   <a href="https://github.com/Bodrami/be04-fin-PI.Akatsuki-PIOMS" target="_blank">
-    <img src="https://github.com/user-attachments/assets/5f1f45fa-72dc-40fe-9e99-20eef7ced889" width="230px" height="180px"/>
+    <img src="https://github.com/user-attachments/assets/5f1f45fa-72dc-40fe-9e99-20eef7ced889" width="350px" height="300px"/>
   </a>
 </div>
 
