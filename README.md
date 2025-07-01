@@ -1,9 +1,9 @@
-<!-- header -->
+<!-- Header -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f586bf85-08c8-4a27-8591-ef90f3ab7c24"/>
 </div>
 
-<!-- stack -->
+<!-- Stack -->
 <br/>
 <div align="center">
   <h2 align="center">
@@ -31,29 +31,29 @@
      My Project
    </h2>
    
-<div style="display:flex; gap: 5px;">
+<div style="display:flex;">
   <!-- 1st WLOP -->
   <a href="https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP" target="_blank">
-    <img src="https://github.com/user-attachments/assets/b1f4239a-dd10-4ed2-8984-47c58a4dda7e" width="250px" height="200px" />
+    <img src="https://github.com/user-attachments/assets/b1f4239a-dd10-4ed2-8984-47c58a4dda7e" width="230px" height="180px" />
   </a>
 
   <!-- 2nd InnerJoinUs -->
   <a href="https://github.com/Bodrami/be04-2nd-ThisDotE-InnerJoin-Us" target="_blank">
-    <img src="https://github.com/user-attachments/assets/29154b0f-4063-4859-aa40-5f0b70ed2400" width="250px" height="200px" />
+    <img src="https://github.com/user-attachments/assets/29154b0f-4063-4859-aa40-5f0b70ed2400" width="230px" height="180px" />
   </a>
 
   <!-- 3rd MoodHolic -->
   <a href="https://github.com/Bodrami/be04-fin-PI.Akatsuki-MOOD.HOLIC" target="_blank">
-    <img src="https://github.com/user-attachments/assets/5462c64a-f80b-4b2f-b68d-da2ad7b5f7e1" width="250px" height="200px" />
+    <img src="https://github.com/user-attachments/assets/5462c64a-f80b-4b2f-b68d-da2ad7b5f7e1" width="230px" height="180px" />
   </a>
 
   <!-- fin Pioms -->
   <a href="https://github.com/Bodrami/be04-fin-PI.Akatsuki-PIOMS" target="_blank">
-    <img src="https://github.com/user-attachments/assets/5f1f45fa-72dc-40fe-9e99-20eef7ced889" width="250px" height="200px"/>
+    <img src="https://github.com/user-attachments/assets/5f1f45fa-72dc-40fe-9e99-20eef7ced889" width="230px" height="180px"/>
   </a>
 </div>
 
-<!-- Record -->
+<!-- USe Record -->
  <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodrami&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=571093&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=Bodrami&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
