@@ -5,13 +5,13 @@
 
 <!-- subHeading -->
 >우여곡절 가득한 제 hub에 오신걸 환영합니다!
->'BIT'는 'Best In Town' 일상에서 뛰어난 것에 대한 표현으로 어디서든 뛰어난 사람이 되고자 노력하는 제 삶의 가치를 의미합니다. 또 다른 의미로는 저의 이름인 Bora의 'B'와 'Git'을 결합한 언어유희로 탄생한 'Bit Hub' 입니다 :)
+>'BIT'는 'Best In Town' 일상에서 뛰어난 것에 대한 표현으로 어디서든 어떤 분야든 뛰어난 사람이 되고자 노력하는 제 삶의 가치를 의미합니다. 또 다른 의미로는 제 이름인 Bora의 'B'와 'Git'을 결합한 언어유희로 탄생한 'Bit Hub' 입니다 :)
 
 <!-- Stack -->
 <br/>
 <div align="center">
   <h2 align="center">
-    STACK
+    🩶 STACK 🤍
   </h2>
 <div>
   <div align="center">
@@ -32,7 +32,7 @@
 <!-- Project -->
   <br/>
  <h2 align="center">
-     My Project
+    🩶 My Project 🤍
    </h2>   
 <h4 align="right">
  Click this images!👇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,7 +63,7 @@
 <!-- USe Record -->
 </br>
 <h2 align="center">
-     Use&Commit Record
+    🩶 Use&Commit Record 🤍
 </h2>
 
 <div style="display: flex;">
