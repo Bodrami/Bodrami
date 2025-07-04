@@ -38,7 +38,7 @@
  Click this images!👇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </h4>
 
-<div style="display:flex;">
+<div align="center" style="display:flex;">
   <!-- 1st WLOP -->
   <a href="https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP" target="_blank">
     <img src="https://github.com/user-attachments/assets/b1f4239a-dd10-4ed2-8984-47c58a4dda7e" width="350px" height="300px" />
@@ -49,7 +49,7 @@
     <img src="https://github.com/user-attachments/assets/29154b0f-4063-4859-aa40-5f0b70ed2400" width="350px" height="300px" />
   </a>
 </div>
-<div style="display:flex;">
+<div align="center" style="display:flex;">
   <!-- 3rd MoodHolic -->
   <a href="https://github.com/Bodrami/be04-fin-PI.Akatsuki-MOOD.HOLIC" target="_blank">
     <img src="https://github.com/user-attachments/assets/5462c64a-f80b-4b2f-b68d-da2ad7b5f7e1" width="350px" height="300px" />
