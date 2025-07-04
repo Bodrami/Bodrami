@@ -8,7 +8,7 @@
 >'BIT'는 'Best In Town' 일상에서 뛰어난 것에 대한 표현으로 어디서든 어떤 분야든 뛰어난 사람이 되고자 노력하는 제 삶의 가치를 의미합니다. 또 다른 의미로는 제 이름인 Bora의 'B'와 'Git'을 결합한 언어유희로 탄생한 'Bit Hub' 입니다 :)
 
 <!-- Stack -->
-<br/>
+<!-- <br/>
 <div align="center">
   <h2 align="center">
     🩶 STACK 🤍
@@ -27,7 +27,7 @@
  | **Monitoring & Tools** | Grafana, Prometheus, Postman, Figma, Microsoft Excel                      |
  | **Production & ETC**   | Apache Tomcat, NPM, SSL, Ubuntu, Google Cloud                             |
    
-  </div>
+  </div> -->
 
 <!-- Project -->
   <br/>
