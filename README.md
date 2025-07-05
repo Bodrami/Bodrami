@@ -35,15 +35,14 @@
     🩶 My Project 🤍
    </h2>   
 <h4 align="right">
- Click this images!👇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ Click this images: Repository URL!👇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </h4>
 
 <div align="center" style="display:flex;">
   <!-- 1st WLOP -->
-  <a href="https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP" target="_blank">
+ <a href="https://github.com/Bodrami/be04-1st-IamDeveloper-WLOP" target="_blank">
     <img src="https://github.com/user-attachments/assets/b1f4239a-dd10-4ed2-8984-47c58a4dda7e" width="350px" height="300px" />
   </a>
-
   <!-- 2nd InnerJoinUs -->
   <a href="https://github.com/Bodrami/be04-2nd-ThisDotE-InnerJoin-Us" target="_blank">
     <img src="https://github.com/user-attachments/assets/29154b0f-4063-4859-aa40-5f0b70ed2400" width="350px" height="300px" />
@@ -67,7 +66,7 @@
     🩶 Use&Commit Record 🤍
 </h2>
 
-<div style="display: flex;">
+<div align="center" style="display: flex;">
   <!-- 왼쪽: 언어 통계 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodrami&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=571093&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" 
     width="433px" />
